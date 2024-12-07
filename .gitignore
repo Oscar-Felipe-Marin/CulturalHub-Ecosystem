@@ -1,0 +1,45 @@
+# Gradle files
+/.gradle/
+/build/
+/out/
+
+# IntelliJ IDEA files
+/.idea/
+/*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+/.classpath
+/.project
+/.settings/
+
+# Maven files (if applicable)
+/target/
+
+# JAR files
+*.jar
+*.war
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test-specific files
+/test-results/
+*.h2.db
+*.db
+
+# Environment variable files
+/.env
+*.env
+
+# Other files
+*.class
+*.log
+*.tmp
+*.swp
+*.swo
